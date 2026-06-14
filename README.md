@@ -14,9 +14,9 @@ To develop an AR-based indoor navigation tool:
 
 | Layer | Technology |
 |---|---|
-| Engine | Unity |
-| Language | C# |
-| AR Framework | Vuforia (Area Targets) |
-| Scanning | iPad Pro LiDAR |
-| Version Control | Git + GitHub |
-| Target Platform | Android |
+| Engine | Unity 2022   |
+| Language | C#   |
+| AR Framework | Vuforia (Area Targets)  |
+| Scanning | iPad Pro LiDAR  |
+| Version Control | Git + GitHub  |
+| Target Platform | Android (ARCore-supported devices) |
