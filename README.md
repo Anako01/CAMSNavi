@@ -34,7 +34,7 @@ To develop an AR-based indoor navigation tool:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Anako01/CAMSNavi.git
+    git clone [https://github.com/](https://github.com/)<your-username>/CAMSNavi.git
     cd CAMSNavi
     ```
 2.  Open the project in **Unity 2022**.
