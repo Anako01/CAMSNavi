@@ -20,3 +20,25 @@ To develop an AR-based indoor navigation tool:
 | Scanning | iPad Pro LiDAR  |
 | Version Control | Git + GitHub  |
 | Target Platform | Android (ARCore-supported devices) |
+
+##  How to Run
+
+###  Requirements
+
+- Unity 2021/2022 (matching version used for Vuforia Engine)
+- Vuforia Engine package
+- Android device with ARCore support
+- USB cable for device deployment
+
+### ⚙️ Setup Steps
+
+1. Clone the repository
+   
+git clone [https://github.com/](https://github.com/)<your-username>/CAMSNavi.git
+cd CAMSNavi
+
+2. Open the project in Unity.
+3. Ensure the Vuforia Engine package is installed via the Package Manager.
+4. Configure the Vuforia Area Targets (Wings 1–3) under Vuforia Engine settings.
+5. Go to Build Settings -> Android ->  Build.
+6. Launch the app on your ARCore-supported device.
