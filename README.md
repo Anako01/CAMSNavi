@@ -9,3 +9,14 @@ To develop an AR-based indoor navigation tool:
 - **Configure** scanned environments as Vuforia Area Targets for marker-less tracking.
 - **Navigate** users from their current position to a selected destination within the CAMS building.
 - **Visualize** the route in real time through directional AR waypoints and a 2D map overlay.
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Engine | Unity |
+| Language | C# |
+| AR Framework | Vuforia (Area Targets) |
+| Scanning | iPad Pro LiDAR |
+| Version Control | Git + GitHub |
+| Target Platform | Android |
