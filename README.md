@@ -30,26 +30,16 @@ To develop an AR-based indoor navigation tool:
 - Android device with ARCore support
 - USB cable for device deployment
 
-### ⚙️ Setup Steps
+###  Setup Steps
 
-1. Clone the repository
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/Anako01/CAMSNavi.git
+    cd CAMSNavi
+    ```
+2.  Open the project in **Unity 2022**.
+3.  Ensure **AR Foundation**,**Vuforia Engine package** and **ARCore XR Plugin** are installed via the Package Manager.
+4.  Configure the Vuforia Area Targets (Wings 1–3) under Vuforia Engine settings.
+5.  Go to **Build Settings** -> **Android** -> **Build**.
+6.  Launch the app on your ARCore-supported device.
 
-\`\`\`
-git clone [https://github.com/](https://github.com/)<your-username>/CAMSNavi.git
-cd CAMSNavi
-\`\`\`
-
-2. Open the project in Unity.
-3. Ensure the Vuforia Engine package is installed via the Package Manager.
-4. Configure the Vuforia Area Targets (Wings 1–3) under Vuforia Engine settings.
-5. Go to Build Settings → Android → Build & Run.
-6. Launch the app on your ARCore-supported device.
-   
-git clone [https://github.com/](https://github.com/)<your-username>/CAMSNavi.git
-cd CAMSNavi
-
-2. Open the project in Unity.
-3. Ensure the Vuforia Engine package is installed via the Package Manager.
-4. Configure the Vuforia Area Targets (Wings 1–3) under Vuforia Engine settings.
-5. Go to Build Settings -> Android ->  Build.
-6. Launch the app on your ARCore-supported device.
