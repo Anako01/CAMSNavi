@@ -25,7 +25,7 @@ To develop an AR-based indoor navigation tool:
 
 ###  Requirements
 
-- Unity 2021/2022 (matching version used for Vuforia Engine)
+- Unity 2022 
 - Vuforia Engine package
 - Android device with ARCore support
 - USB cable for device deployment
