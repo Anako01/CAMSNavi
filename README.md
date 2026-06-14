@@ -38,7 +38,7 @@ To develop an AR-based indoor navigation tool:
     cd CAMSNavi
     ```
 2.  Open the project in **Unity 2022**.
-3.  Ensure **AR Foundation**,**Vuforia Engine package** and **ARCore XR Plugin** are installed via the Package Manager.
+3.  Ensure **AR Foundation** and **Vuforia Engine package**  are installed via the Package Manager.
 4.  Configure the Vuforia Area Targets (Wings 1–3) under Vuforia Engine settings.
 5.  Go to **Build Settings** -> **Android** -> **Build**.
 6.  Launch the app on your ARCore-supported device.
