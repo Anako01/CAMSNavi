@@ -33,6 +33,10 @@ To develop an AR-based indoor navigation tool:
 ### ⚙️ Setup Steps
 
 1. Clone the repository
+   ```
+git clone https://github.com/Anako01/CAMSNavi.git
+cd CAMSNavi
+```
    
 git clone [https://github.com/](https://github.com/)<your-username>/CAMSNavi.git
 cd CAMSNavi
