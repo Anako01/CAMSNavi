@@ -3,7 +3,7 @@ Honours Project - CAMSNavi is an indoor AR navigation system developed in Unity 
 
 ##  Project Goal
 
-To develop an AR-based indoor navigation tool that:
+To develop an AR-based indoor navigation tool:
 
 - **Scan** ground floor at CAMNS using LiDAR (iPad Pro) to generate accurate point cloud models.
 - **Configure** scanned environments as Vuforia Area Targets for marker-less tracking.
