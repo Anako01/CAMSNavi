@@ -25,7 +25,8 @@ To develop an AR-based indoor navigation tool:
 
 ###  Requirements
 
-- Unity 2022 
+- Unity 2022
+- M1 iPad Pro LiDAR Scanner
 - Vuforia Engine package
 - Android device with ARCore support
 - USB cable for device deployment
