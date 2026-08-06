@@ -8,7 +8,7 @@ To develop an AR-based indoor navigation tool:
 - **Scan** ground floor at CAMNS using LiDAR (iPad Pro) to generate accurate point cloud models.
 - **Configure** scanned environments as Vuforia Area Targets for marker-less tracking.
 - **Navigate** users from their current position to a selected destination within the CAMS building.
-- **Visualize** the route in real time through directional AR waypoints and a 2D map overlay.
+- **Visualize** the route in real time through directional AR waypoints.
 
 ## Tech Stack
 
